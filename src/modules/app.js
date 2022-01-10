@@ -1,3 +1,4 @@
+
 import {JSBlock} from "./js-block";
 import {TimerBlock} from "./timer-block";
 import {JS_CREATION_DATE} from "../core/constans/settings";
